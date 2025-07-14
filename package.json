@@ -1,0 +1,9 @@
+{
+  "name": "ytmp3-telegram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "youtube-audio-stream": "^1.0.0"
+  }
+}
